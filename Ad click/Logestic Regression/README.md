@@ -1,12 +1,12 @@
 
-# Ad click project with Logestic Regression
+# Ad click project with Logistic Regression
 
 In this project I tried to predict whether some one with some given information
 will click on an advertisement on the internet or not.
 
 
 
-## why did I use Logestic Regression
+## why did I use Logistic Regression
 Well, the answere is easy; it is for binary and catagorized attributes. Also I used it to 
 somehow compare it with Random Forest and Decision tree ( *which is done in anothe folder in this repository* ) their accuracy rate.
 
