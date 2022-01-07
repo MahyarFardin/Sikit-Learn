@@ -4,7 +4,7 @@
 In this project I tryed to analys and extract some information from an Indian salary dataset.
 
 
-## Problems Fased
+## Problems Faced
 The column Salary was string but I needed integer to do operations on it so I tried to convert integer
 to numeric but there was somehow a missing value which took some time for me to find it, finally I found it and I had to replace it manually.
 ## Walkthrough
