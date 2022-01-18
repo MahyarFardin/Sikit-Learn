@@ -1,20 +1,14 @@
-# Wine quality prediction
+# Optimized Wine Quality
 
-In this project I tried to predict wine qulity with given information about it's componants.
+In this project I tried to optimize wine qulity project which I did before using gradient search.
 
 # Walkthrough
 
-- Importing libraries(*I imported predictive libraries in their own palca*)
-- gathering some information about dataset
-- gathering some information about features of dataset
-- applying models
-(kneighborsclassifier ,logestic regression ,random forest ,decision tree classifier ,support vectore machine ,adaboost ,sgd classifier)
+- Importing libraries(*I imported predictive libraries in their own place*)
+- applying gradient search manually with a predetermined series
 
-# Best Result
-
-- rfc
-- sgd
-- adaboost
+# Results
+**No opt** || **opt**
 
 # Feedback
 
