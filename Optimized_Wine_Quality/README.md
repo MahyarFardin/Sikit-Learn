@@ -1,4 +1,4 @@
-# Optimized Wine Quality
+# Tuning Wine Quality
 
 In this project I tried to tune wine qulity project which I did before using gradient search.
 
