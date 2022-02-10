@@ -2,12 +2,7 @@
 # Ad click project with Random Forest and Decision tree
 
 In this project I tried to predict whether some one with some given information
-will click on an advertisement on the internet or not. But unlike my other project in this folder this time whit DT and RF.
-
-
-## why did I use Random Forest and Decision tree
-Actually I wanted to do a comparison between DT and RF and LR so I decided to do the same Ad click prediction project with all three of them.
-
+will click on an advertisement on the internet or not.
 
 ## Features of dataset 
 - Daily Time Spent on Site: daily Time Spent on Site by users
@@ -33,31 +28,11 @@ Here I explaine my notebook file
 - Finding correlation of attributes
 - Removeing non-numeric values ( *in another project I will replcae them with numeric values to see that whether it will increase the accuracy or not* )
 
-**step 3**:Applying DecisionTreeClassifier with a usual train test split and evaluating
-
-**step 4**:Applying Random Forest with a usual train test split and evaluating
-
-**step 5**:Finding a good value for n_estimator for random forest to get better results *manually*
+**step 3**:Appling all of the models
       
-## Results
-- DecisionTreeClassifier
-
-![](https://gcdn.pbrd.co/images/1b3AXFtqKl0G.jpg?o=1)
-
-- Random Forest( *100 estimators* )
-
-![](https://gcdn.pbrd.co/images/fykq3zSx72UM.jpg?o=1)
-## Optimizations
-
-I somehow done a little bit of optimization manually (*not a big range of numbers*) and actually the results got a little bit better as seen in the picture below: 
-![](https://gcdn.pbrd.co/images/FSdgE4nyTz8R.jpg?o=1)
-
-*we would get 96 percent accuracy if we set n_estimators equal to 200*
-
 ## Feedback
 
 If you have any feedback, please reach out to us at Mahyarfardinfar@gmail.com
-
 
 ## Data
 ("https://drive.google.com/drive/folders/1Gv0jtk73SVfXBEhjV4sX9WU_hP_w5vA3")
