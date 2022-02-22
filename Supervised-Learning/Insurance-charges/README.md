@@ -1,15 +1,18 @@
 # Over viwe
 
-In this project I tries to predict peoples insurance charges using Linear regression.
+In this project I tries to predict peoples insurance charges.
 
 # Problems faced
 
-As you see I did not get a good result thats because of my dataset. When you see my dataset you may get two ideas :
+I did not get a good result thats because of my dataset. When you see my dataset you may get two ideas :
 
-- There is a linear dataset which is really noisiy
-- There is a dataset which could be seperated and could be fit with 3 lines
+- There is a linear target feature which is really noisiy
+- There is a target feature which could be seperated and could be fit with 3 lines
 
 but I countinued with the first aspect which was not the best choise.
+
+- Models were untuned
+- labels were not scaled
 
 # Features
 - age	
@@ -19,11 +22,6 @@ but I countinued with the first aspect which was not the best choise.
 - smoker
 - region	
 - charges
-
-# Walkthrough
-
-I imported my dataset and I tried to gather some general information about dataset. Then I replaced non-numeric values with numeric ones; and I gathered more information.
-Finally I did a split and trained,tested my linear regression model and I evaluated it.
 
 # Feedback
 
