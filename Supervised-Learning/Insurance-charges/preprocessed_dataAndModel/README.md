@@ -1,11 +1,12 @@
-# Over viwe
+# Overviwe
 
 In this project I tries to predict peoples insurance charges.
 
 # Problems solved 
 
-- [x] Models were untuned
-- [x] labels were not scaled
+- [x] Triple linear data
+- [x] Model tuning
+- [ ] Data not scaled
 
 # Features
 - age	
